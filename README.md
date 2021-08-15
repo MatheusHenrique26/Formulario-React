@@ -1,2 +1,2 @@
 # Formulario-React
-Formulario desenvolvido com o react 
+Formulario desenvolvido com o react.
